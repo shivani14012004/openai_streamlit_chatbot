@@ -4,7 +4,7 @@ A ChatGPT-like conversational chatbot built using **Python, Streamlit, and the O
 
 ## 📸 Application Screenshot
 
-![OpenAI Streamlit Chatbot](screenshots/chatbot.png)
+![OpenAI Streamlit Chatbot](Screenshots/chatbot.png)
 
 ## 🚀 Features
 
